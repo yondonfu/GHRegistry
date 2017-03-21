@@ -1,0 +1,16 @@
+.progress-container {
+  text-align: center; }
+.registry-table {
+  width: 80%;
+  margin: 0 auto; }
+.register-container {
+  display: inline-block;
+  margin-right: .5rem; }
+.transfer-container {
+  display: inline-block; }
+.app-jumbotron {
+  text-align: center; }
+
+.app-drawer-container {
+  width: 90%;
+  margin: 1rem auto 0 auto; }
