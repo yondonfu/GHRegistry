@@ -1,16 +1,28 @@
-.progress-container {
-  text-align: center; }
-.registry-table {
-  width: 80%;
-  margin: 0 auto; }
+.header-drawer {
+  width: 90%;
+  margin: 1rem auto 0 auto; }
+
+.header-withdraw-button {
+  margin-bottom: 1rem; }
 .register-container {
   display: inline-block;
   margin-right: .5rem; }
+
+.register-cancel-button {
+  margin-right: 1rem; }
+
+.register-create-gist-content {
+  margin-top: 1rem;
+  margin-bottom: 1rem; }
 .transfer-container {
   display: inline-block; }
+
+.transfer-cancel-button {
+  margin-right: 1rem; }
+.registry-table {
+  width: 80%;
+  margin: 0 auto; }
 .app-jumbotron {
   text-align: center; }
-
-.app-drawer-container {
-  width: 90%;
-  margin: 1rem auto 0 auto; }
+.about-container {
+  text-align: center; }
