@@ -1,0 +1,23 @@
+{
+  "name": "GHRegistry",
+  "version": "1.0.0",
+  "description": "Serves React/Redux frontend app for gh-identity-registry",
+  "main": "bundle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yondonfu/GHRegistry.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yondonfu/GHRegistry/issues"
+  },
+  "homepage": "https://github.com/yondonfu/GHRegistry#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
